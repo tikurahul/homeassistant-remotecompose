@@ -49,6 +49,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Grid_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Grid_Light_grid_light.png" width="150" /> |
 | `Heading_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Heading_Dark_heading_dark.png" width="150" /> |
 | `Heading_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Heading_Light_heading_light.png" width="150" /> |
+| `HistoryGraph_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.HistoryGraph_Dark_history-graph_dark.png" width="150" /> |
+| `HistoryGraph_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.HistoryGraph_Light_history-graph_light.png" width="150" /> |
 | `HorizontalStack_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.HorizontalStack_Dark_horizontal-stack_dark.png" width="150" /> |
 | `HorizontalStack_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.HorizontalStack_Light_horizontal-stack_light.png" width="150" /> |
 | `Logbook_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Logbook_Dark_logbook_dark.png" width="150" /> |

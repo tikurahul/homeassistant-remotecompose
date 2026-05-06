@@ -265,6 +265,20 @@
     "sha256": "788ae4c4508e38dc1d7ef0596008c9baa50760d30fa10d9c793acab4d63014c8",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.HistoryGraph_Dark_history-graph (dark)": {
+    "captureLabel": "",
+    "functionName": "HistoryGraph_Dark",
+    "renderBasename": "CardPreviewsKt.HistoryGraph_Dark_history-graph_dark.png",
+    "sha256": "2df9544326a3073152dade56f79c1bdc275161e399ee76c0b8be13e263224b9c",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.HistoryGraph_Light_history-graph (light)": {
+    "captureLabel": "",
+    "functionName": "HistoryGraph_Light",
+    "renderBasename": "CardPreviewsKt.HistoryGraph_Light_history-graph_light.png",
+    "sha256": "e9031200ab9758b246f1ccd08f6d4eaf72a515da26e0dd47135a58fd4686032f",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.HorizontalStack_Dark_horizontal-stack (dark)": {
     "captureLabel": "",
     "functionName": "HorizontalStack_Dark",
