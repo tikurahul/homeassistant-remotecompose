@@ -349,6 +349,34 @@
     "sha256": "b68a3c9599152067b0dea2ce897083d9c6c228c205fb3b781aa55fa64e01c36a",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Humidifier_Dark_humidifier (dark)": {
+    "captureLabel": "",
+    "functionName": "Humidifier_Dark",
+    "renderBasename": "CardPreviewsKt.Humidifier_Dark_humidifier_dark.png",
+    "sha256": "b69bebb88aee1d6876e6ff0449500825d3504f6d2793f4088234efee177b2f5e",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Humidifier_Light_humidifier (light)": {
+    "captureLabel": "",
+    "functionName": "Humidifier_Light",
+    "renderBasename": "CardPreviewsKt.Humidifier_Light_humidifier_light.png",
+    "sha256": "ccc2f6f3172992de2d7433fc0d6ff982b547cd0b568698f3698cfe0590b43c50",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.LightCard_Dark_light card (dark)": {
+    "captureLabel": "",
+    "functionName": "LightCard_Dark",
+    "renderBasename": "CardPreviewsKt.LightCard_Dark_light_card_dark.png",
+    "sha256": "ef9f4594811109cbe3318d08dbef1db5f31c0c6cace85b298925131928abf433",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.LightCard_Light_light card (light)": {
+    "captureLabel": "",
+    "functionName": "LightCard_Light",
+    "renderBasename": "CardPreviewsKt.LightCard_Light_light_card_light.png",
+    "sha256": "172a0e0e27a881564101ee19f5eddd37c58a037aba27dabd49192f6f139da5f2",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Logbook_Dark_logbook (dark)": {
     "captureLabel": "",
     "functionName": "Logbook_Dark",
@@ -389,6 +417,20 @@
     "functionName": "PictureEntity_Light",
     "renderBasename": "CardPreviewsKt.PictureEntity_Light_picture-entity_light.png",
     "sha256": "3481724915183c2fce84e90c4c158bf2d8fcf205e7e20a7c5e76479175f1506e",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Thermostat_Dark_thermostat (dark)": {
+    "captureLabel": "",
+    "functionName": "Thermostat_Dark",
+    "renderBasename": "CardPreviewsKt.Thermostat_Dark_thermostat_dark.png",
+    "sha256": "6ce25947583e4df8ac7771b1fb78ea182a041daa34ac5ce808a47f1fadbd6585",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Thermostat_Light_thermostat (light)": {
+    "captureLabel": "",
+    "functionName": "Thermostat_Light",
+    "renderBasename": "CardPreviewsKt.Thermostat_Light_thermostat_light.png",
+    "sha256": "a4beb0a2f7ae6886ed2dab3a17a1411d9f14d5d0f63dff6c7faf2ad44167850b",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Tile_Cover_States_tile cover (light)": {
@@ -458,14 +500,14 @@
     "captureLabel": "",
     "functionName": "Unsupported_Dark",
     "renderBasename": "CardPreviewsKt.Unsupported_Dark_unsupported_dark.png",
-    "sha256": "ab6bbd3a88ba9dbb93c1faba5dd3a31875e8a8f85e3780e200da803715c904fd",
+    "sha256": "bf320cd3a21e5dbd8795b1e9cb11dc552271364246e707683b4e45e0342dfff6",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Unsupported_Light_unsupported (light)": {
     "captureLabel": "",
     "functionName": "Unsupported_Light",
     "renderBasename": "CardPreviewsKt.Unsupported_Light_unsupported_light.png",
-    "sha256": "fd8951b5f199b656fd3228089983fac4a8c09bb977805e4cd768fa6059b882e7",
+    "sha256": "a779d66dafce9cf501e5ee9bfc0ebd76ae1e7ab4e2cdc1a31354b09fa4099f21",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.VerticalStack_Dark_vertical-stack (dark)": {
