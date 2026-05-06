@@ -29,6 +29,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 |---------|-------|
 | `AppIcon_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/AppIconPreviewsKt.AppIcon_Dark_app-icon_dark.png" width="150" /> |
 | `AppIcon_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/AppIconPreviewsKt.AppIcon_Light_app-icon_light.png" width="150" /> |
+| `AlarmPanel_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.AlarmPanel_Dark_alarm-panel_dark.png" width="150" /> |
+| `AlarmPanel_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.AlarmPanel_Light_alarm-panel_light.png" width="150" /> |
 | `BambuAms_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuAms_Dark_bambu_ams_dark.png" width="150" /> |
 | `BambuAms_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuAms_Light_bambu_ams_light.png" width="150" /> |
 | `BambuPrintControl_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuPrintControl_Dark_bambu_print-control_dark.png" width="150" /> |
@@ -43,8 +45,6 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_off.png" width="150" /> |
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_on.png" width="150" /> |
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_unavailable.png" width="150" /> |
-| `Clock_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Dark_clock_dark.png" width="150" /> |
-| `Clock_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Light_clock_light.png" width="150" /> |
 | `Dashboard_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Dark_dashboard_dark.png" width="150" /> |
 | `Dashboard_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Light_dashboard_light.png" width="150" /> |
 | `Entities_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Entities_Dark_entities_dark.png" width="150" /> |
@@ -71,10 +71,10 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Logbook_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Logbook_Light_logbook_light.png" width="150" /> |
 | `Markdown_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Markdown_Dark_markdown_dark.png" width="150" /> |
 | `Markdown_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Markdown_Light_markdown_light.png" width="150" /> |
+| `MediaControl_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.MediaControl_Dark_media-control_dark.png" width="150" /> |
+| `MediaControl_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.MediaControl_Light_media-control_light.png" width="150" /> |
 | `PictureEntity_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.PictureEntity_Dark_picture-entity_dark.png" width="150" /> |
 | `PictureEntity_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.PictureEntity_Light_picture-entity_light.png" width="150" /> |
-| `StatisticsGraph_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.StatisticsGraph_Dark_statistics-graph_dark.png" width="150" /> |
-| `StatisticsGraph_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.StatisticsGraph_Light_statistics-graph_light.png" width="150" /> |
 | `Thermostat_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Thermostat_Dark_thermostat_dark.png" width="150" /> |
 | `Thermostat_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Thermostat_Light_thermostat_light.png" width="150" /> |
 | `Tile_Cover_States` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Tile_Cover_States_tile_cover_light_closed.png" width="150" /> |
@@ -86,6 +86,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Tile_Lock_States` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Tile_Lock_States_tile_lock_light_locked.png" width="150" /> |
 | `Tile_Lock_States` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Tile_Lock_States_tile_lock_light_locking.png" width="150" /> |
 | `Tile_Lock_States` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Tile_Lock_States_tile_lock_light_unlocked.png" width="150" /> |
+| `TodoList_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.TodoList_Dark_todo-list_dark.png" width="150" /> |
+| `TodoList_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.TodoList_Light_todo-list_light.png" width="150" /> |
 | `Unsupported_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Unsupported_Dark_unsupported_dark.png" width="150" /> |
 | `Unsupported_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Unsupported_Light_unsupported_light.png" width="150" /> |
 | `VerticalStack_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.VerticalStack_Dark_vertical-stack_dark.png" width="150" /> |
