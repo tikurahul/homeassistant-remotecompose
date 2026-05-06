@@ -125,6 +125,20 @@
     "sha256": "00273e62c08cfb4d182673893cefc6d0daa75eea3c80b7410cb7f5603d615028",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/AppIconPreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.BambuPrintStatus_Dark_bambu print-status (dark)": {
+    "captureLabel": "",
+    "functionName": "BambuPrintStatus_Dark",
+    "renderBasename": "CardPreviewsKt.BambuPrintStatus_Dark_bambu_print-status_dark.png",
+    "sha256": "7b9c505eccd6f6860d03f0b6f411cdf4c04255506a9328ad676ae79d43366b92",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.BambuPrintStatus_Light_bambu print-status (light)": {
+    "captureLabel": "",
+    "functionName": "BambuPrintStatus_Light",
+    "renderBasename": "CardPreviewsKt.BambuPrintStatus_Light_bambu_print-status_light.png",
+    "sha256": "224579c5e4bb93ed66e56a3c663556e4f0ab703c69303f9234f1966c9cb5a1c5",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Button_Dark_button (dark)": {
     "captureLabel": "",
     "functionName": "Button_Dark",

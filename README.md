@@ -29,6 +29,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 |---------|-------|
 | `AppIcon_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/AppIconPreviewsKt.AppIcon_Dark_app-icon_dark.png" width="150" /> |
 | `AppIcon_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/AppIconPreviewsKt.AppIcon_Light_app-icon_light.png" width="150" /> |
+| `BambuPrintStatus_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuPrintStatus_Dark_bambu_print-status_dark.png" width="150" /> |
+| `BambuPrintStatus_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuPrintStatus_Light_bambu_print-status_light.png" width="150" /> |
 | `Button_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Dark_button_dark_off.png" width="150" /> |
 | `Button_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Dark_button_dark_on.png" width="150" /> |
 | `Button_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Dark_button_dark_unavailable.png" width="150" /> |
