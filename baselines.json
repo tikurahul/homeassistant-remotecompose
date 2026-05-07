@@ -269,14 +269,14 @@
     "captureLabel": "",
     "functionName": "Clock_Dark",
     "renderBasename": "CardPreviewsKt.Clock_Dark_clock_dark.png",
-    "sha256": "bc0bcffff5194dc79d52cbdaf9bf62118b73180637b379fe8bde1665155d89db",
+    "sha256": "89bd253a713de915e9a8c9e28eea813c7b9b8353333f9634dc11ee55b74f8b4f",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Clock_Light_clock (light)": {
     "captureLabel": "",
     "functionName": "Clock_Light",
     "renderBasename": "CardPreviewsKt.Clock_Light_clock_light.png",
-    "sha256": "051f54885da1809414da07f1dbd3f22f45cd3f55648e7ed92a1b1b6296941d8e",
+    "sha256": "2f1128988d2ecfa5c80cc16009e83a0e846c6acf6287469ef3134f3abb580444",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Dashboard_Dark_dashboard (dark)": {
@@ -423,14 +423,14 @@
     "captureLabel": "",
     "functionName": "Humidifier_Dark",
     "renderBasename": "CardPreviewsKt.Humidifier_Dark_humidifier_dark.png",
-    "sha256": "b69bebb88aee1d6876e6ff0449500825d3504f6d2793f4088234efee177b2f5e",
+    "sha256": "dc32d3479b11a8251219f59e69e1ed2ce057754f8949ff638e47291f9a199d0f",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Humidifier_Light_humidifier (light)": {
     "captureLabel": "",
     "functionName": "Humidifier_Light",
     "renderBasename": "CardPreviewsKt.Humidifier_Light_humidifier_light.png",
-    "sha256": "ccc2f6f3172992de2d7433fc0d6ff982b547cd0b568698f3698cfe0590b43c50",
+    "sha256": "646a901b2bd8bbf9bc0d7a08f64ad9e475eea981ffd8e9bca83384dbf22e36d3",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.LightCard_Dark_light card (dark)": {
@@ -591,14 +591,14 @@
     "captureLabel": "",
     "functionName": "Thermostat_Dark",
     "renderBasename": "CardPreviewsKt.Thermostat_Dark_thermostat_dark.png",
-    "sha256": "6ce25947583e4df8ac7771b1fb78ea182a041daa34ac5ce808a47f1fadbd6585",
+    "sha256": "706fbdf28d08886464b841acbaf3c30c9982466718454fe360812fd4be118d5e",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Thermostat_Light_thermostat (light)": {
     "captureLabel": "",
     "functionName": "Thermostat_Light",
     "renderBasename": "CardPreviewsKt.Thermostat_Light_thermostat_light.png",
-    "sha256": "a4beb0a2f7ae6886ed2dab3a17a1411d9f14d5d0f63dff6c7faf2ad44167850b",
+    "sha256": "e6bc9d1f4024aae3ae84e4fc7e646b61151d885005cf1636095e7adea94f6384",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Tile_Cover_States_tile cover (light)": {
