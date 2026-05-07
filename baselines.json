@@ -139,6 +139,20 @@
     "sha256": "ac638c8c9b032bf560e19afb862584d144c5bae6be5d4abd7026355122a625aa",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Area_Dark_area (dark)": {
+    "captureLabel": "",
+    "functionName": "Area_Dark",
+    "renderBasename": "CardPreviewsKt.Area_Dark_area_dark.png",
+    "sha256": "f869ec2b78312918869b101ff7c4ad583596449dfc87673b759ca375d281ac93",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Area_Light_area (light)": {
+    "captureLabel": "",
+    "functionName": "Area_Light",
+    "renderBasename": "CardPreviewsKt.Area_Light_area_light.png",
+    "sha256": "5881ee0f92900037ffd3c786e6989189eec3c19f2887b4817f009c36674f3f26",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.BambuAms_Dark_bambu ams (dark)": {
     "captureLabel": "",
     "functionName": "BambuAms_Dark",
@@ -235,6 +249,20 @@
     "functionName": "Button_Light",
     "renderBasename": "CardPreviewsKt.Button_Light_button_light_unavailable.png",
     "sha256": "ae13fcb6f90cb1036e49296b9747e5657326571b20ab466ba39a8cc294a5591e",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Calendar_Dark_calendar (dark)": {
+    "captureLabel": "",
+    "functionName": "Calendar_Dark",
+    "renderBasename": "CardPreviewsKt.Calendar_Dark_calendar_dark.png",
+    "sha256": "fbee592b40eda67828ca5968f710edabb0a908ffe3f4ca3ffd763a4aae9224ec",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Calendar_Light_calendar (light)": {
+    "captureLabel": "",
+    "functionName": "Calendar_Light",
+    "renderBasename": "CardPreviewsKt.Calendar_Light_calendar_light.png",
+    "sha256": "f95506ec75684c5a9d46069a5a553b32ff611c3a14d8d96f7e5d8f9e061f9028",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Dashboard_Dark_dashboard (dark)": {

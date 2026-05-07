@@ -31,6 +31,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `AppIcon_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/AppIconPreviewsKt.AppIcon_Light_app-icon_light.png" width="150" /> |
 | `AlarmPanel_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.AlarmPanel_Dark_alarm-panel_dark.png" width="150" /> |
 | `AlarmPanel_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.AlarmPanel_Light_alarm-panel_light.png" width="150" /> |
+| `Area_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Area_Dark_area_dark.png" width="150" /> |
+| `Area_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Area_Light_area_light.png" width="150" /> |
 | `BambuAms_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuAms_Dark_bambu_ams_dark.png" width="150" /> |
 | `BambuAms_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuAms_Light_bambu_ams_light.png" width="150" /> |
 | `BambuPrintControl_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.BambuPrintControl_Dark_bambu_print-control_dark.png" width="150" /> |
@@ -45,6 +47,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_off.png" width="150" /> |
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_on.png" width="150" /> |
 | `Button_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Button_Light_button_light_unavailable.png" width="150" /> |
+| `Calendar_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Calendar_Dark_calendar_dark.png" width="150" /> |
+| `Calendar_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Calendar_Light_calendar_light.png" width="150" /> |
 | `Dashboard_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Dark_dashboard_dark.png" width="150" /> |
 | `Dashboard_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Light_dashboard_light.png" width="150" /> |
 | `Entities_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Entities_Dark_entities_dark.png" width="150" /> |
