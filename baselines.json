@@ -269,14 +269,14 @@
     "captureLabel": "",
     "functionName": "Clock_Dark",
     "renderBasename": "CardPreviewsKt.Clock_Dark_clock_dark.png",
-    "sha256": "475e6c6fbf0358b558d9f8dbe8d7cd41b13f41f43cb130cebd65a66b608facc3",
+    "sha256": "bc0bcffff5194dc79d52cbdaf9bf62118b73180637b379fe8bde1665155d89db",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Clock_Light_clock (light)": {
     "captureLabel": "",
     "functionName": "Clock_Light",
     "renderBasename": "CardPreviewsKt.Clock_Light_clock_light.png",
-    "sha256": "69b6cd7f2f5abf200de0565b884badf01e2fbdfbf40d42b3384cc342985d7269",
+    "sha256": "051f54885da1809414da07f1dbd3f22f45cd3f55648e7ed92a1b1b6296941d8e",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Dashboard_Dark_dashboard (dark)": {
@@ -493,14 +493,14 @@
     "captureLabel": "",
     "functionName": "PictureElements_Dark",
     "renderBasename": "CardPreviewsKt.PictureElements_Dark_picture-elements_dark.png",
-    "sha256": "c8431e0ecd36450e7ffe0ddf91bc4f4a07243da94b5ada855bd095277ee3bb7e",
+    "sha256": "3ee553294565d6e8f6be5b56d5c59722bc52568f27c514b573f04a3a59f06f47",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.PictureElements_Light_picture-elements (light)": {
     "captureLabel": "",
     "functionName": "PictureElements_Light",
     "renderBasename": "CardPreviewsKt.PictureElements_Light_picture-elements_light.png",
-    "sha256": "34c6e0a652a57575f52f24d2659c221ac0e8251933cd580760cab282e9ae56ce",
+    "sha256": "39c2875bdc2e5af590b62faa22ed01e2583527bec7b18943d0169825d905d8b4",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.PictureEntity_Dark_picture-entity (dark)": {
