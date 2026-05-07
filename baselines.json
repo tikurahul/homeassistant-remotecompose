@@ -279,6 +279,20 @@
     "sha256": "2f1128988d2ecfa5c80cc16009e83a0e846c6acf6287469ef3134f3abb580444",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Clock_Seconds_clock (seconds)": {
+    "captureLabel": "",
+    "functionName": "Clock_Seconds",
+    "renderBasename": "CardPreviewsKt.Clock_Seconds_clock_seconds.png",
+    "sha256": "dfec5abb76789f88a0ae1f51d1b3bc1eb595ad441132a4cbd26fb2f6f2ef902b",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.CardPreviewsKt.Clock_Zone_clock (zone)": {
+    "captureLabel": "",
+    "functionName": "Clock_Zone",
+    "renderBasename": "CardPreviewsKt.Clock_Zone_clock_zone.png",
+    "sha256": "128d866f3c567b0f8615f5fa03d797ef0a543ce0b41390d9381a0f2e964b989b",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.Dashboard_Dark_dashboard (dark)": {
     "captureLabel": "",
     "functionName": "Dashboard_Dark",

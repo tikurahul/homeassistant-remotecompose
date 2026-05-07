@@ -51,6 +51,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Calendar_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Calendar_Light_calendar_light.png" width="150" /> |
 | `Clock_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Dark_clock_dark.png" width="150" /> |
 | `Clock_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Light_clock_light.png" width="150" /> |
+| `Clock_Seconds` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Seconds_clock_seconds.png" width="150" /> |
+| `Clock_Zone` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Clock_Zone_clock_zone.png" width="150" /> |
 | `Dashboard_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Dark_dashboard_dark.png" width="150" /> |
 | `Dashboard_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Dashboard_Light_dashboard_light.png" width="150" /> |
 | `Entities_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/CardPreviewsKt.Entities_Dark_entities_dark.png" width="150" /> |
