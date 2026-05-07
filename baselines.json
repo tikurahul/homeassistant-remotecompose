@@ -1014,6 +1014,20 @@
     "sha256": "d855e3e5734ebf60147733d9c45956288ccd9ddc407a8a52b524984bd9bf89c9",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/ImagePreviews.kt"
   },
+  "previews/ee.schimke.ha.previews.ImagePreviewsKt.ImageUrl_FakeCoil_Dark_image-url fake-coil (dark)": {
+    "captureLabel": "",
+    "functionName": "ImageUrl_FakeCoil_Dark",
+    "renderBasename": "ImagePreviewsKt.ImageUrl_FakeCoil_Dark_image-url_fake-coil_dark.png",
+    "sha256": "938c930a33715cb4abd12e2f178d9682b9d1357c2728cac7baea1a091a9aaa8e",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/ImagePreviews.kt"
+  },
+  "previews/ee.schimke.ha.previews.ImagePreviewsKt.ImageUrl_FakeCoil_Light_image-url fake-coil (light)": {
+    "captureLabel": "",
+    "functionName": "ImageUrl_FakeCoil_Light",
+    "renderBasename": "ImagePreviewsKt.ImageUrl_FakeCoil_Light_image-url_fake-coil_light.png",
+    "sha256": "938c930a33715cb4abd12e2f178d9682b9d1357c2728cac7baea1a091a9aaa8e",
+    "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/ImagePreviews.kt"
+  },
   "previews/ee.schimke.ha.previews.PlayStoreGraphicsPreviewsKt.Play_Feature_1024x500_play \u00b7 feature \u00b7 1024x500": {
     "captureLabel": "",
     "functionName": "Play_Feature_1024x500",
