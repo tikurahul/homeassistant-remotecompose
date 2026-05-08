@@ -661,14 +661,14 @@
     "captureLabel": "",
     "functionName": "PictureElements_Dark",
     "renderBasename": "CardPreviewsKt.PictureElements_Dark_picture-elements_dark.png",
-    "sha256": "3ee553294565d6e8f6be5b56d5c59722bc52568f27c514b573f04a3a59f06f47",
+    "sha256": "054bac204b2d83460045aa6a2379b9a4228f857a4835db2d4cd5e68d94ff684e",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.PictureElements_Light_picture-elements (light)": {
     "captureLabel": "",
     "functionName": "PictureElements_Light",
     "renderBasename": "CardPreviewsKt.PictureElements_Light_picture-elements_light.png",
-    "sha256": "39c2875bdc2e5af590b62faa22ed01e2583527bec7b18943d0169825d905d8b4",
+    "sha256": "671d7c85fa26f77cd4451018047b837ca16a1e7b9a88b26bf555dc2b3f8573e6",
     "sourceFile": "src/main/kotlin/ee/schimke/ha/previews/CardPreviews.kt"
   },
   "previews/ee.schimke.ha.previews.CardPreviewsKt.PictureEntity_Dark_picture-entity (dark)": {
