@@ -1,0 +1,20 @@
+{
+  "wear::drawable/wear_slot_preview_large::renders/resources/drawable/wear_slot_preview_large_xhdpi.png": {
+    "module": "wear",
+    "qualifiers": "xhdpi",
+    "renderBasename": "resources/drawable/wear_slot_preview_large_xhdpi.png",
+    "resourceId": "drawable/wear_slot_preview_large",
+    "resourceType": "VECTOR",
+    "sha256": "ac88a2280638bed5749e6d77869c6a047353c8fc53289ca7c4c2a14fc7ee2170",
+    "shape": null
+  },
+  "wear::drawable/wear_slot_preview_small::renders/resources/drawable/wear_slot_preview_small_xhdpi.png": {
+    "module": "wear",
+    "qualifiers": "xhdpi",
+    "renderBasename": "resources/drawable/wear_slot_preview_small_xhdpi.png",
+    "resourceId": "drawable/wear_slot_preview_small",
+    "resourceType": "VECTOR",
+    "sha256": "32a9ae26e49dd4f57eddd6a6e6631887262cb7bd7a939738abc8e6bb94d75443",
+    "shape": null
+  }
+}
