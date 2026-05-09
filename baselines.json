@@ -38,7 +38,7 @@
     "captureLabel": "",
     "functionName": "Play_Tablet10_01_Home",
     "renderBasename": "Play_Tablet10_01_Home_play_10-inch_home.png",
-    "sha256": "67896c3b0e50d762c54784ab3cf0b6588c70876eca1d733c4503ef4d6b3555c2",
+    "sha256": "5d993019e42d4ac0718436216e603e3d31d8f5a938b68b213b319f099ce7e60e",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Play_Tablet7_01_Home_play \u00b7 7-inch \u00b7 home": {
