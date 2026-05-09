@@ -10,7 +10,7 @@
     "captureLabel": "",
     "functionName": "Play_Phone_02_HomeDark",
     "renderBasename": "Play_Phone_02_HomeDark_play_phone_home_dark.png",
-    "sha256": "c93f2aef2138035fe52c0aafe816cd5619ef3ce6b52514c88061f0483d828a20",
+    "sha256": "f1d129d0083a083b4cbe38dd53f0dceb96ec81e59a645a5743ad2af9c776a7ba",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Play_Phone_03_Discovery_play \u00b7 phone \u00b7 discovery": {
@@ -38,7 +38,7 @@
     "captureLabel": "",
     "functionName": "Play_Tablet10_01_Home",
     "renderBasename": "Play_Tablet10_01_Home_play_10-inch_home.png",
-    "sha256": "f55403da87cd80c93885c6cb3f4b65be77637a53c8617f6dd21ec471214e322b",
+    "sha256": "1dd688129f90a0630a758d0440db970898dbb2062e9300efe830b07e4cac46e0",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Play_Tablet7_01_Home_play \u00b7 7-inch \u00b7 home": {
@@ -59,42 +59,42 @@
     "captureLabel": "",
     "functionName": "Screen_DashboardView_ThemeStyle",
     "renderBasename": "Screen_DashboardView_ThemeStyle_dashboard_theme_Material3.png",
-    "sha256": "9a60ad420fbf536b1b5d796c69788c08005b9ef179cce74d45fa1f8dc5afe93e",
+    "sha256": "ef521bf8a494ffe887e70b956c9d1340c3eb3a8b6eb8b8f76ee5c292e83e6ccd",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_DashboardView_ThemeStyle_dashboard \u00b7 theme#1": {
     "captureLabel": "",
     "functionName": "Screen_DashboardView_ThemeStyle",
     "renderBasename": "Screen_DashboardView_ThemeStyle_dashboard_theme_TerrazzoHome.png",
-    "sha256": "646aa4f35ec0675f160ce8932fee33270434f8c80e6be58ee2237c3375eda3ce",
+    "sha256": "a29a7f64680ebd835afe15424bfcbd2caa7c51d4270d5ca3b23c9631a72911f1",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_DashboardView_ThemeStyle_dashboard \u00b7 theme#2": {
     "captureLabel": "",
     "functionName": "Screen_DashboardView_ThemeStyle",
     "renderBasename": "Screen_DashboardView_ThemeStyle_dashboard_theme_TerrazzoKiosk.png",
-    "sha256": "120392aae23365871a9957dca1e97d40c031dcf99b1259669b11b7ecd142b218",
+    "sha256": "ceb09122661ab5f9e6d44932485b183a06f2c7516bc1443243238e23e04774f1",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_DashboardView_ThemeStyle_dashboard \u00b7 theme#3": {
     "captureLabel": "",
     "functionName": "Screen_DashboardView_ThemeStyle",
     "renderBasename": "Screen_DashboardView_ThemeStyle_dashboard_theme_TerrazzoMinimalist.png",
-    "sha256": "0e1c62d1af07b8f5ad025c140b8f76ace786acf4f08338c2b6b92fac00563d43",
+    "sha256": "774f6de4ef143255e8764f59e08ef7f880b5d8eb646ee0195c55a1cf16effd0a",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_DashboardView_ThemeStyle_dashboard \u00b7 theme#4": {
     "captureLabel": "",
     "functionName": "Screen_DashboardView_ThemeStyle",
     "renderBasename": "Screen_DashboardView_ThemeStyle_dashboard_theme_TerrazzoMushroom.png",
-    "sha256": "72befbd27c7839663aa5dbc0fb788c949d2cfd957526962c257d456f39651e40",
+    "sha256": "d8211f80e6d38d7dfbe01a0dda3df761339960322f17d9bed9c47a6957a73b51",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_DashboardView_dashboard view": {
     "captureLabel": "",
     "functionName": "Screen_DashboardView",
     "renderBasename": "Screen_DashboardView_dashboard_view.png",
-    "sha256": "646aa4f35ec0675f160ce8932fee33270434f8c80e6be58ee2237c3375eda3ce",
+    "sha256": "a29a7f64680ebd835afe15424bfcbd2caa7c51d4270d5ca3b23c9631a72911f1",
     "sourceFile": "src/main/kotlin/ee/schimke/terrazzo/previews/ScreenPreviews.kt"
   },
   "app/ee.schimke.terrazzo.previews.ScreenPreviewsKt.Screen_Discovery_discovery": {
