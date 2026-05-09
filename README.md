@@ -184,6 +184,15 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `Play_Icon_512` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/PlayStoreGraphicsPreviewsKt.Play_Icon_512_play_icon_512.png" width="150" /> |
 | `Shutter_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ShutterCardPreviewsKt.Shutter_Dark_shutter_dark.png" width="150" /> |
 | `Shutter_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ShutterCardPreviewsKt.Shutter_Light_shutter_light.png" width="150" /> |
+| `Sizing_ConstraintMatrix_PaintMeasure` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_ConstraintMatrix_PaintMeasure_sizing_width_height_matrix_paint-measure_profile.png" width="150" /> |
+| `Sizing_ConstraintMatrix_Wrap` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_ConstraintMatrix_Wrap_sizing_width_height_matrix_wrap_profile.png" width="150" /> |
+| `Sizing_FixedSlot_PaintMeasure` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_FixedSlot_PaintMeasure_sizing_fixed_slot_paint-measure_profile.png" width="150" /> |
+| `Sizing_FixedSlot_Wrap` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_FixedSlot_Wrap_sizing_fixed_slot_wrap_profile.png" width="150" /> |
+| `Sizing_SlackSlot_PaintMeasure` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_SlackSlot_PaintMeasure_sizing_slack_slot_paint-measure_profile.png" width="150" /> |
+| `Sizing_SlackSlot_Wrap` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_SlackSlot_Wrap_sizing_slack_slot_wrap_profile.png" width="150" /> |
+| `Sizing_TightSlot_PaintMeasure` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_TightSlot_PaintMeasure_sizing_tight_slot_paint-measure_profile.png" width="150" /> |
+| `Sizing_TightSlot_Wrap` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_TightSlot_Wrap_sizing_tight_slot_wrap_profile.png" width="150" /> |
+| `Sizing_WidthPinnedHeightAdaptive` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/SizingExperimentPreviewsKt.Sizing_WidthPinnedHeightAdaptive_sizing_width_pinned_height_adaptive.png" width="150" /> |
 | `Theme_Home_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ThemePreviewsKt.Theme_Home_Dark_theme_Home_dark.png" width="150" /> |
 | `Theme_Home_Light` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ThemePreviewsKt.Theme_Home_Light_theme_Home_light.png" width="150" /> |
 | `Theme_Kiosk_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ThemePreviewsKt.Theme_Kiosk_Dark_theme_Kiosk_dark.png" width="150" /> |
@@ -204,6 +213,8 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 | `ToggleInitial_Off` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ToggleSwitchPreviewsKt.ToggleInitial_Off_toggle_initial_off.png" width="150" /> |
 | `ToggleInitial_On_Dark` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ToggleSwitchPreviewsKt.ToggleInitial_On_Dark_toggle_initial_on_dark.png" width="150" /> |
 | `ToggleInitial_On` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/ToggleSwitchPreviewsKt.ToggleInitial_On_toggle_initial_on.png" width="150" /> |
+| `WrapContentHeightFixAlpha010` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/WrapContentHeightReproKt.WrapContentHeightFixAlpha010_wrap-content_height_fix_WrapAdaptive_player.png" width="150" /> |
+| `WrapContentHeightReproAlpha010` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/previews/WrapContentHeightReproKt.WrapContentHeightReproAlpha010_wrap-content_height_repro_alpha010.png" width="150" /> |
 
 ## tv
 
@@ -219,8 +230,9 @@ Auto-generated from `main`. Browse inline or compare against PR branches.
 |---------|-------|
 | `WearDashboardPreview` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearDashboardPreview_Wear_dashboard.png" width="150" /> |
 | `WearDashboardsPreview` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearDashboardsPreview_Wear_dashboards.png" width="150" /> |
-| `WearHomePreview_Demo` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearHomePreview_Demo_Wear_home_demo.png" width="150" /> |
-| `WearHomePreview_Empty` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearHomePreview_Empty_Wear_home_empty.png" width="150" /> |
-| `WearHomePreview_Live` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearHomePreview_Live_Wear_home_live.png" width="150" /> |
+| `WearSectionPreview` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearSectionPreview_Wear_section.png" width="150" /> |
 | `WearSettingsPreview` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearSettingsPreview_Wear_settings.png" width="150" /> |
+| `WearTopLevelPreview_Demo` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearTopLevelPreview_Demo_Wear_top-level_demo.png" width="150" /> |
+| `WearTopLevelPreview_Empty` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearTopLevelPreview_Empty_Wear_top-level_empty.png" width="150" /> |
+| `WearTopLevelPreview_Live` | <img src="https://raw.githubusercontent.com/yschimke/homeassistant-remotecompose/compose-preview/main/renders/wear/WearTopLevelPreview_Live_Wear_top-level_live.png" width="150" /> |
 
