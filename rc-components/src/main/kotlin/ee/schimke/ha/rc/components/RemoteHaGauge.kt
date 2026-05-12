@@ -344,6 +344,39 @@ fun RemoteHaGaugeWide(
     }
 }
 
+
+@Composable
+@RemoteComposable
+fun RemoteHaGaugeTiny(
+    data: HaGaugeData,
+    modifier: RemoteModifier = RemoteModifier,
+) {
+    val theme = haTheme()
+    val clickable =
+        data.tapAction.toRemoteAction()?.let { RemoteModifier.clickable(it) } ?: RemoteModifier
+
+    RemoteBox(
+        modifier =
+            modifier
+                .then(clickable)
+                .clip(RemoteRoundedCornerShape(12.rdp))
+                .background(theme.cardBackground.rc)
+                .border(1.rdp, theme.divider.rc, RemoteRoundedCornerShape(12.rdp))
+                .padding(horizontal = 6.rdp, vertical = 4.rdp),
+        contentAlignment = RemoteAlignment.TopStart,
+    ) {
+        RemoteText(
+            text = data.valueText,
+            color = theme.primaryText.rc,
+            fontSize = 13.rsp,
+            fontWeight = FontWeight.SemiBold,
+            style = RemoteTextStyle.Default,
+            maxLines = 1,
+            overflow = TextOverflow.Ellipsis,
+        )
+    }
+}
+
 @Composable
 private fun animatedGaugeSweep(data: HaGaugeData): RemoteFloat {
     val span = (data.max - data.min).coerceAtLeast(0.0001)

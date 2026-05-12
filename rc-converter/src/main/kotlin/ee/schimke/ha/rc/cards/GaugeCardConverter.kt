@@ -28,6 +28,7 @@ import ee.schimke.ha.rc.components.LiveValues
 import ee.schimke.ha.rc.components.RemoteHaGauge
 import ee.schimke.ha.rc.components.RemoteHaGaugeCompact
 import ee.schimke.ha.rc.components.RemoteHaGaugeWide
+import ee.schimke.ha.rc.components.RemoteHaGaugeTiny
 import ee.schimke.ha.rc.defaultTapActionFor
 import ee.schimke.ha.rc.formatState
 import ee.schimke.ha.rc.parseHaAction
@@ -88,7 +89,7 @@ class GaugeCardConverter : CardConverter {
             RemoteFloat.createNamedRemoteFloatExpression(heightName, RemoteState.Domain.User) {
                 componentHeight()
             }
-        val isAboveChip = widthExpr.ge(80.rdp.toPx())
+        val isTiny = widthExpr.lt(90.rdp.toPx()).or(heightExpr.lt(90.rdp.toPx()))
         val isWideThin = widthExpr.gt(heightExpr * 1.5f.rf)
 
         RemoteBox(modifier = modifier.fillMaxSize()) {
@@ -105,9 +106,12 @@ class GaugeCardConverter : CardConverter {
                 color = Color.Transparent.rc,
             )
 
-            RemoteStateLayout(isAboveChip) { hasRoom ->
-                if (!hasRoom) {
-                    CompactStateChip(card, snapshot)
+            RemoteStateLayout(isTiny) { tiny ->
+                if (tiny) {
+                    RemoteHaGaugeTiny(
+                        gaugeData(card, snapshot),
+                        modifier = RemoteModifier.fillMaxSize(),
+                    )
                 } else {
                     RemoteStateLayout(isWideThin) { wide ->
                         if (wide) {
