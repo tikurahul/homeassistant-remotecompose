@@ -242,7 +242,7 @@ fun RemoteHaGaugeCompact(
         RemoteText(
             text = data.valueText,
             color = theme.primaryText.rc,
-            fontSize = 16.rsp,
+            fontSize = 15.rsp,
             fontWeight = FontWeight.SemiBold,
             style = RemoteTextStyle.Default,
             maxLines = 1,
@@ -277,12 +277,12 @@ fun RemoteHaGaugeWide(
                 .clip(RemoteRoundedCornerShape(12.rdp))
                 .background(theme.cardBackground.rc)
                 .border(1.rdp, theme.divider.rc, RemoteRoundedCornerShape(12.rdp))
-                .padding(horizontal = 8.rdp, vertical = 6.rdp),
+                .padding(horizontal = 8.rdp, vertical = 4.rdp),
         verticalAlignment = RemoteAlignment.CenterVertically,
         horizontalArrangement = RemoteArrangement.spacedBy(8.rdp),
     ) {
         // Arc canvas: square aspect, height-bounded.
-        RemoteCanvas(modifier = RemoteModifier.fillMaxHeight().width(64.rdp)) {
+        RemoteCanvas(modifier = RemoteModifier.fillMaxHeight().width(72.rdp)) {
             val w = width
             val h = height
             val stroke = 6f.rf
@@ -326,7 +326,7 @@ fun RemoteHaGaugeWide(
             RemoteText(
                 text = data.valueText,
                 color = theme.primaryText.rc,
-                fontSize = 16.rsp,
+                fontSize = 15.rsp,
                 fontWeight = FontWeight.SemiBold,
                 style = RemoteTextStyle.Default,
                 maxLines = 1,
@@ -340,6 +340,16 @@ fun RemoteHaGaugeWide(
                 maxLines = 1,
                 overflow = TextOverflow.Ellipsis,
             )
+            if (data.unit != null) {
+                RemoteText(
+                    text = "${formatRange(data.min)} – ${formatRange(data.max)} ${data.unit}".rs,
+                    color = theme.secondaryText.rc,
+                    fontSize = 10.rsp,
+                    style = RemoteTextStyle.Default,
+                    maxLines = 1,
+                    overflow = TextOverflow.Ellipsis,
+                )
+            }
         }
     }
 }

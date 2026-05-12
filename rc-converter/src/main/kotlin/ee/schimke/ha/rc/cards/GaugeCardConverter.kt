@@ -88,8 +88,8 @@ class GaugeCardConverter : CardConverter {
             RemoteFloat.createNamedRemoteFloatExpression(heightName, RemoteState.Domain.User) {
                 componentHeight()
             }
-        val isAboveChip = widthExpr.ge(80.rdp.toPx())
-        val isWideThin = widthExpr.gt(heightExpr * 1.5f.rf)
+        val isAboveChip = widthExpr.ge(56.rdp.toPx())
+        val isWideThin = widthExpr.gt(heightExpr * 1.25f.rf)
 
         RemoteBox(modifier = modifier.fillMaxSize()) {
             // Materialise both named expressions in the document. The
